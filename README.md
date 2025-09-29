@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 Заполните auth.txt (API_ID, API_HASH, PHONE_NUMBER)
 
-Запустите app_v6.py
+Запустите TGmdown.py
 
 Авторизуйтесь и выберите чат для скачивания
 
